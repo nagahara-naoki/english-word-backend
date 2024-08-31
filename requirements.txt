@@ -1,4 +1,4 @@
 requests
-CORS
 Flask
+flask_cors
 gunicorn
