@@ -1,0 +1,402 @@
+{
+  "1": {
+    "word": "abash",
+    "desc": "恥じ入らす"
+  },
+  "2": {
+    "word": "abhor",
+    "desc": "ぞっとするほど嫌う"
+  },
+  "3": {
+    "word": "abide",
+    "desc": "我慢する"
+  },
+  "4": {
+    "word": "abysmal",
+    "desc": "深いふちの"
+  },
+  "5": {
+    "word": "acupuncture",
+    "desc": "はり治療"
+  },
+  "6": {
+    "word": "adjourn",
+    "desc": "延期する"
+  },
+  "7": {
+    "word": "afflict",
+    "desc": "苦しめる"
+  },
+  "8": {
+    "word": "affront",
+    "desc": "侮辱る"
+  },
+  "9": {
+    "word": "aggrieved",
+    "desc": "感情を害して"
+  },
+  "10": {
+    "word": "algae",
+    "desc": "藻類"
+  },
+  "11": {
+    "word": "allude",
+    "desc": "言及する"
+  },
+  "12": {
+    "word": "amble",
+    "desc": "ゆっくり歩く"
+  },
+  "13": {
+    "word": "annihilate",
+    "desc": "全滅させる"
+  },
+  "14": {
+    "word": "anorexia",
+    "desc": "食欲不振"
+  },
+  "15": {
+    "word": "bleak",
+    "desc": "寒い"
+  },
+  "16": {
+    "word": "blunder",
+    "desc": "まごまごして歩く"
+  },
+  "17": {
+    "word": "bounty",
+    "desc": "博愛"
+  },
+  "18": {
+    "word": "brass",
+    "desc": "真ちゅう"
+  },
+  "19": {
+    "word": "bulimia",
+    "desc": "病的飢餓"
+  },
+  "20": {
+    "word": "burgeoning",
+    "desc": "芽"
+  },
+  "21": {
+    "word": "bustle",
+    "desc": "忙しそうに動く"
+  },
+  "22": {
+    "word": "canopy",
+    "desc": "天蓋"
+  },
+  "23": {
+    "word": "capricious",
+    "desc": "気まぐれな"
+  },
+  "24": {
+    "word": "caricature",
+    "desc": "風刺画"
+  },
+  "25": {
+    "word": "chagrin",
+    "desc": "無念"
+  },
+  "26": {
+    "word": "chalice",
+    "desc": "杯"
+  },
+  "27": {
+    "word": "decease",
+    "desc": "死亡"
+  },
+  "28": {
+    "word": "deciduous",
+    "desc": "落葉性の"
+  },
+  "29": {
+    "word": "defamation",
+    "desc": "中傷"
+  },
+  "30": {
+    "word": "default",
+    "desc": "不履行"
+  },
+  "31": {
+    "word": "delve",
+    "desc": "探究する"
+  },
+  "32": {
+    "word": "desolate",
+    "desc": "荒れ果てた"
+  },
+  "33": {
+    "word": "engrossed",
+    "desc": "熱中した"
+  },
+  "34": {
+    "word": "entail",
+    "desc": "必然的に伴う"
+  },
+  "35": {
+    "word": "envisage",
+    "desc": "心に描く"
+  },
+  "36": {
+    "word": "excrete",
+    "desc": "排泄する"
+  },
+  "37": {
+    "word": "exodus",
+    "desc": "外出"
+  },
+  "38": {
+    "word": "feign",
+    "desc": "装う"
+  },
+  "39": {
+    "word": "fiasco",
+    "desc": "大失敗"
+  },
+  "40": {
+    "word": "flamboyant",
+    "desc": "燃えるような"
+  },
+  "41": {
+    "word": "fleet",
+    "desc": "艦隊"
+  },
+  "42": {
+    "word": "flunk",
+    "desc": "しくじる"
+  },
+  "43": {
+    "word": "forbear",
+    "desc": "控える"
+  },
+  "44": {
+    "word": "garnish",
+    "desc": "料理のつけ合わせ"
+  },
+  "45": {
+    "word": "grandiose",
+    "desc": "気取った"
+  },
+  "46": {
+    "word": "gratifying",
+    "desc": "満足を与える"
+  },
+  "47": {
+    "word": "graze",
+    "desc": "草を食う"
+  },
+  "48": {
+    "word": "growl",
+    "desc": "うなる"
+  },
+  "49": {
+    "word": "haughty",
+    "desc": "ごうまんな"
+  },
+  "50": {
+    "word": "haze",
+    "desc": "薄霧"
+  },
+  "51": {
+    "word": "hermit",
+    "desc": "隠者"
+  },
+  "52": {
+    "word": "hindsight",
+    "desc": "あと知恵"
+  },
+  "53": {
+    "word": "hinge",
+    "desc": "ちょうつがい"
+  },
+  "54": {
+    "word": "hoax",
+    "desc": "いっぱい食わせる"
+  },
+  "55": {
+    "word": "ignoble",
+    "desc": "下劣な"
+  },
+  "56": {
+    "word": "imposing",
+    "desc": "印象的な"
+  },
+  "57": {
+    "word": "inept",
+    "desc": "不適当な"
+  },
+  "58": {
+    "word": "infatuated",
+    "desc": "ぼうっとなった"
+  },
+  "59": {
+    "word": "insurrection",
+    "desc": "暴動"
+  },
+  "60": {
+    "word": "juxtapose",
+    "desc": "並べる"
+  },
+  "61": {
+    "word": "kudos",
+    "desc": "名声"
+  },
+  "62": {
+    "word": "latch",
+    "desc": "ドア・門などの掛け金"
+  },
+  "63": {
+    "word": "latitude",
+    "desc": "緯度"
+  },
+  "64": {
+    "word": "mar",
+    "desc": "ひどく傷つける"
+  },
+  "65": {
+    "word": "mnemonic",
+    "desc": "記憶を助ける"
+  },
+  "66": {
+    "word": "morbid",
+    "desc": "病的な"
+  },
+  "67": {
+    "word": "nimbus",
+    "desc": "雨雲"
+  },
+  "68": {
+    "word": "nirvana",
+    "desc": "ニルバーナ"
+  },
+  "69": {
+    "word": "obliterate",
+    "desc": "消してしまう"
+  },
+  "70": {
+    "word": "omnivorous",
+    "desc": "何でも食べる"
+  },
+  "71": {
+    "word": "optical",
+    "desc": "目の"
+  },
+  "72": {
+    "word": "outlandish",
+    "desc": "風変わりな"
+  },
+  "73": {
+    "word": "pandemonium",
+    "desc": "大混乱"
+  },
+  "74": {
+    "word": "perturb",
+    "desc": "かき乱す"
+  },
+  "75": {
+    "word": "placid",
+    "desc": "穏やかな"
+  },
+  "76": {
+    "word": "presumptuous",
+    "desc": "押しの強い"
+  },
+  "77": {
+    "word": "privy",
+    "desc": "内々関与して"
+  },
+  "78": {
+    "word": "prodigal",
+    "desc": "浪費する"
+  },
+  "79": {
+    "word": "profusely",
+    "desc": "豊富に"
+  },
+  "80": {
+    "word": "pseudonym",
+    "desc": "ペンネーム"
+  },
+  "81": {
+    "word": "puke",
+    "desc": "吐く"
+  },
+  "82": {
+    "word": "ramshackle",
+    "desc": "今にも倒れそうな"
+  },
+  "83": {
+    "word": "ransack",
+    "desc": "くまなく探る"
+  },
+  "84": {
+    "word": "recoil",
+    "desc": "あとずさりする"
+  },
+  "85": {
+    "word": "redeem",
+    "desc": "弁済する"
+  },
+  "86": {
+    "word": "replenish",
+    "desc": "再び満たす"
+  },
+  "87": {
+    "word": "rudimentary",
+    "desc": "基本の"
+  },
+  "88": {
+    "word": "satirical",
+    "desc": "風刺の"
+  },
+  "89": {
+    "word": "savory",
+    "desc": "味のよい"
+  },
+  "90": {
+    "word": "savvy",
+    "desc": "知る"
+  },
+  "91": {
+    "word": "scaffold",
+    "desc": "足場"
+  },
+  "92": {
+    "word": "shun",
+    "desc": "避ける"
+  },
+  "93": {
+    "word": "singular",
+    "desc": "並はずれた"
+  },
+  "94": {
+    "word": "tattered",
+    "desc": "ぼろぼろの"
+  },
+  "95": {
+    "word": "trample",
+    "desc": "踏みつける"
+  },
+  "96": {
+    "word": "upright",
+    "desc": "直立した"
+  },
+  "97": {
+    "word": "venerate",
+    "desc": "崇拝する"
+  },
+  "98": {
+    "word": "vermin",
+    "desc": "害虫"
+  },
+  "99": {
+    "word": "viable",
+    "desc": "存立できる"
+  },
+  "100": {
+    "word": "wrath",
+    "desc": "激怒"
+  }
+}

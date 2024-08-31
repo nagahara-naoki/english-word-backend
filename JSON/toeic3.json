@@ -1,0 +1,402 @@
+{
+  "1": {
+    "word": "abridged",
+    "desc": "要約された"
+  },
+  "2": {
+    "word": "accomplished",
+    "desc": "完成した"
+  },
+  "3": {
+    "word": "acknowledgement",
+    "desc": "承認"
+  },
+  "4": {
+    "word": "aging",
+    "desc": "老齢化"
+  },
+  "5": {
+    "word": "alert",
+    "desc": "油断のない"
+  },
+  "6": {
+    "word": "allergy",
+    "desc": "アレルギー"
+  },
+  "7": {
+    "word": "appetizer",
+    "desc": "食欲をそそるもの"
+  },
+  "8": {
+    "word": "applause",
+    "desc": "拍手かっさい"
+  },
+  "9": {
+    "word": "assorted",
+    "desc": "分類した"
+  },
+  "10": {
+    "word": "attire",
+    "desc": "盛装する"
+  },
+  "11": {
+    "word": "austere",
+    "desc": "厳しい"
+  },
+  "12": {
+    "word": "avid",
+    "desc": "貪欲な"
+  },
+  "13": {
+    "word": "ban",
+    "desc": "禁止"
+  },
+  "14": {
+    "word": "bear",
+    "desc": "産む"
+  },
+  "15": {
+    "word": "boost",
+    "desc": "押し上げ"
+  },
+  "16": {
+    "word": "breathtakingly",
+    "desc": "あっと言わせるほど"
+  },
+  "17": {
+    "word": "bulk",
+    "desc": "大きさ"
+  },
+  "18": {
+    "word": "burst",
+    "desc": "破裂する"
+  },
+  "19": {
+    "word": "bypass",
+    "desc": "バイパス"
+  },
+  "20": {
+    "word": "carrier",
+    "desc": "運搬人"
+  },
+  "21": {
+    "word": "certified",
+    "desc": "保証された"
+  },
+  "22": {
+    "word": "chronic",
+    "desc": "長引く"
+  },
+  "23": {
+    "word": "circulation",
+    "desc": "循環"
+  },
+  "24": {
+    "word": "cite",
+    "desc": "引用する"
+  },
+  "25": {
+    "word": "colossal",
+    "desc": "巨大な"
+  },
+  "26": {
+    "word": "commerce",
+    "desc": "商業"
+  },
+  "27": {
+    "word": "compliance",
+    "desc": "応じること"
+  },
+  "28": {
+    "word": "component",
+    "desc": "構成している"
+  },
+  "29": {
+    "word": "confidential",
+    "desc": "信任の厚い"
+  },
+  "30": {
+    "word": "consistent",
+    "desc": "首尾一貫した"
+  },
+  "31": {
+    "word": "correspondent",
+    "desc": "特派員"
+  },
+  "32": {
+    "word": "courteous",
+    "desc": "礼儀正しく思いやりのある"
+  },
+  "33": {
+    "word": "craven",
+    "desc": "臆病な"
+  },
+  "34": {
+    "word": "culinary",
+    "desc": "台所の"
+  },
+  "35": {
+    "word": "deposit",
+    "desc": "預金する"
+  },
+  "36": {
+    "word": "distinctive",
+    "desc": "特色のある"
+  },
+  "37": {
+    "word": "distinguished",
+    "desc": "すぐれた"
+  },
+  "38": {
+    "word": "drowsiness",
+    "desc": "眠気"
+  },
+  "39": {
+    "word": "enthusiasm",
+    "desc": "熱中"
+  },
+  "40": {
+    "word": "entrepreneur",
+    "desc": "起業家"
+  },
+  "41": {
+    "word": "exceptional",
+    "desc": "例外的な"
+  },
+  "42": {
+    "word": "exonerate",
+    "desc": "開放する"
+  },
+  "43": {
+    "word": "exponentially",
+    "desc": "指数関数的に"
+  },
+  "44": {
+    "word": "fabulous",
+    "desc": "伝説上の"
+  },
+  "45": {
+    "word": "faculty",
+    "desc": "能力"
+  },
+  "46": {
+    "word": "former",
+    "desc": "前の"
+  },
+  "47": {
+    "word": "fragile",
+    "desc": "壊れやすい"
+  },
+  "48": {
+    "word": "halt",
+    "desc": "立ち止まる"
+  },
+  "49": {
+    "word": "hectic",
+    "desc": "興奮した"
+  },
+  "50": {
+    "word": "implement",
+    "desc": "道具"
+  },
+  "51": {
+    "word": "inclement",
+    "desc": "不良な"
+  },
+  "52": {
+    "word": "informative",
+    "desc": "知識を与える"
+  },
+  "53": {
+    "word": "inherit",
+    "desc": "受け継ぐ"
+  },
+  "54": {
+    "word": "initiative",
+    "desc": "手始め"
+  },
+  "55": {
+    "word": "inn",
+    "desc": "小旅館"
+  },
+  "56": {
+    "word": "incidence",
+    "desc": "発声"
+  },
+  "57": {
+    "word": "intermission",
+    "desc": "休止"
+  },
+  "58": {
+    "word": "introductory",
+    "desc": "紹介の"
+  },
+  "59": {
+    "word": "itinerary",
+    "desc": "旅行日程表"
+  },
+  "60": {
+    "word": "leading",
+    "desc": "先導する"
+  },
+  "61": {
+    "word": "locksmith",
+    "desc": "錠前師"
+  },
+  "62": {
+    "word": "lure",
+    "desc": "誘惑するもの"
+  },
+  "63": {
+    "word": "malfunction",
+    "desc": "機能不全"
+  },
+  "64": {
+    "word": "mortgage",
+    "desc": "抵当"
+  },
+  "65": {
+    "word": "noteworthy",
+    "desc": "注目すべき"
+  },
+  "66": {
+    "word": "nursery",
+    "desc": "保育園"
+  },
+  "67": {
+    "word": "outlay",
+    "desc": "支出"
+  },
+  "68": {
+    "word": "overhaul",
+    "desc": "分解検査する"
+  },
+  "69": {
+    "word": "paralegal",
+    "desc": "パラリーガル"
+  },
+  "70": {
+    "word": "patent",
+    "desc": "特許"
+  },
+  "71": {
+    "word": "patronage",
+    "desc": "後援"
+  },
+  "72": {
+    "word": "peer",
+    "desc": "同僚"
+  },
+  "73": {
+    "word": "physician",
+    "desc": "医師"
+  },
+  "74": {
+    "word": "plush",
+    "desc": "豪華な"
+  },
+  "75": {
+    "word": "prescription",
+    "desc": "処方箋"
+  },
+  "76": {
+    "word": "proceed",
+    "desc": "続行する"
+  },
+  "77": {
+    "word": "proofreader",
+    "desc": "校正係"
+  },
+  "78": {
+    "word": "posture",
+    "desc": "姿勢"
+  },
+  "79": {
+    "word": "query",
+    "desc": "質問"
+  },
+  "80": {
+    "word": "regulate",
+    "desc": "取り締まる"
+  },
+  "81": {
+    "word": "regimen",
+    "desc": "摂生"
+  },
+  "82": {
+    "word": "resume",
+    "desc": "再び始める"
+  },
+  "83": {
+    "word": "revenue",
+    "desc": "歳入"
+  },
+  "84": {
+    "word": "seasoned",
+    "desc": "味つけした"
+  },
+  "85": {
+    "word": "skyrocket",
+    "desc": "打ち上げ花火"
+  },
+  "86": {
+    "word": "spare",
+    "desc": "惜しんで使わない"
+  },
+  "87": {
+    "word": "stagnant",
+    "desc": "流れない"
+  },
+  "88": {
+    "word": "stunning",
+    "desc": "気絶させる"
+  },
+  "89": {
+    "word": "surgical",
+    "desc": "外科の"
+  },
+  "90": {
+    "word": "tidy",
+    "desc": "きちんとした"
+  },
+  "91": {
+    "word": "trim",
+    "desc": "刈り込んで整える"
+  },
+  "92": {
+    "word": "typo",
+    "desc": "誤植"
+  },
+  "93": {
+    "word": "unwilling",
+    "desc": "気が進まない"
+  },
+  "94": {
+    "word": "valuable",
+    "desc": "高価な"
+  },
+  "95": {
+    "word": "verification",
+    "desc": "確認"
+  },
+  "96": {
+    "word": "veterinarian",
+    "desc": "獣医"
+  },
+  "97": {
+    "word": "waive",
+    "desc": "放棄する"
+  },
+  "98": {
+    "word": "welder",
+    "desc": "溶接工"
+  },
+  "99": {
+    "word": "wildlife",
+    "desc": "野生生物"
+  },
+  "100": {
+    "word": "wring",
+    "desc": "絞る"
+  }
+}

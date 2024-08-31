@@ -1,0 +1,402 @@
+{
+  "1": {
+    "word": "accommodate",
+    "desc": "〜を収容する"
+  },
+  "2": {
+    "word": "accounting",
+    "desc": "会計学"
+  },
+  "3": {
+    "word": "actually",
+    "desc": "実際に"
+  },
+  "4": {
+    "word": "additional",
+    "desc": "付加的な，追加の"
+  },
+  "5": {
+    "word": "administration",
+    "desc": "管理"
+  },
+  "6": {
+    "word": "advance",
+    "desc": "前進"
+  },
+  "7": {
+    "word": "advertising",
+    "desc": "広告すること"
+  },
+  "8": {
+    "word": "afford",
+    "desc": "余裕がある"
+  },
+  "9": {
+    "word": "analyst",
+    "desc": "分析者"
+  },
+  "10": {
+    "word": "annual",
+    "desc": "年に1度の"
+  },
+  "11": {
+    "word": "appear",
+    "desc": "出現する"
+  },
+  "12": {
+    "word": "applicant",
+    "desc": "応募者"
+  },
+  "13": {
+    "word": "appreciate",
+    "desc": "高く評価する"
+  },
+  "14": {
+    "word": "architect",
+    "desc": "建築家"
+  },
+  "15": {
+    "word": "assess",
+    "desc": "を評価する"
+  },
+  "16": {
+    "word": "attend",
+    "desc": "出席する."
+  },
+  "17": {
+    "word": "attract",
+    "desc": "引く"
+  },
+  "18": {
+    "word": "benefit",
+    "desc": "利益"
+  },
+  "19": {
+    "word": "budget",
+    "desc": "政府などの予算案"
+  },
+  "20": {
+    "word": "cater",
+    "desc": "料理を調達する"
+  },
+  "21": {
+    "word": "colleague",
+    "desc": "同僚"
+  },
+  "22": {
+    "word": "compare",
+    "desc": "比較する"
+  },
+  "23": {
+    "word": "complicated",
+    "desc": "複雑な"
+  },
+  "24": {
+    "word": "concern",
+    "desc": "関係している"
+  },
+  "25": {
+    "word": "conference",
+    "desc": "会議"
+  },
+  "26": {
+    "word": "consumer",
+    "desc": "消費者"
+  },
+  "27": {
+    "word": "contract",
+    "desc": "契約"
+  },
+  "28": {
+    "word": "current",
+    "desc": "今の"
+  },
+  "29": {
+    "word": "decide",
+    "desc": "決定する"
+  },
+  "30": {
+    "word": "delay",
+    "desc": "遅らせる"
+  },
+  "31": {
+    "word": "delighted",
+    "desc": "喜んで"
+  },
+  "32": {
+    "word": "department",
+    "desc": "売場"
+  },
+  "33": {
+    "word": "designate",
+    "desc": "指名する"
+  },
+  "34": {
+    "word": "develop",
+    "desc": "発達させる"
+  },
+  "35": {
+    "word": "donate",
+    "desc": "贈与する"
+  },
+  "36": {
+    "word": "eliminate",
+    "desc": "除く"
+  },
+  "37": {
+    "word": "encourage",
+    "desc": "元気づける"
+  },
+  "38": {
+    "word": "enroll",
+    "desc": "登録する"
+  },
+  "39": {
+    "word": "estate",
+    "desc": "財産"
+  },
+  "40": {
+    "word": "exceed",
+    "desc": "超過する"
+  },
+  "41": {
+    "word": "except",
+    "desc": "を除いては"
+  },
+  "42": {
+    "word": "executive",
+    "desc": "経営幹部，役員，経営者"
+  },
+  "43": {
+    "word": "exhibit",
+    "desc": "を展示する"
+  },
+  "44": {
+    "word": "expect",
+    "desc": "予期する"
+  },
+  "45": {
+    "word": "expertise",
+    "desc": "専門的技術"
+  },
+  "46": {
+    "word": "explain",
+    "desc": "説明する"
+  },
+  "47": {
+    "word": "facility",
+    "desc": "設備"
+  },
+  "48": {
+    "word": "fail",
+    "desc": "失敗する"
+  },
+  "49": {
+    "word": "familiar",
+    "desc": "よく知っている"
+  },
+  "50": {
+    "word": "feature",
+    "desc": "人目を引く特徴"
+  },
+  "51": {
+    "word": "fee",
+    "desc": "料金"
+  },
+  "52": {
+    "word": "figure",
+    "desc": "図形"
+  },
+  "53": {
+    "word": "frequent",
+    "desc": "たびたびの"
+  },
+  "54": {
+    "word": "further",
+    "desc": "もっと遠い"
+  },
+  "55": {
+    "word": "handle",
+    "desc": "ハンドル"
+  },
+  "56": {
+    "word": "identification",
+    "desc": "同一であることの確認"
+  },
+  "57": {
+    "word": "improve",
+    "desc": "改良する"
+  },
+  "58": {
+    "word": "include",
+    "desc": "含む"
+  },
+  "59": {
+    "word": "inquire",
+    "desc": "尋ねる"
+  },
+  "60": {
+    "word": "instantly",
+    "desc": "すぐに"
+  },
+  "61": {
+    "word": "insurance",
+    "desc": "保険"
+  },
+  "62": {
+    "word": "invest",
+    "desc": "投資する"
+  },
+  "63": {
+    "word": "invite",
+    "desc": "招待する"
+  },
+  "64": {
+    "word": "invoice",
+    "desc": "送り状"
+  },
+  "65": {
+    "word": "involve",
+    "desc": "巻き込む"
+  },
+  "66": {
+    "word": "luggage",
+    "desc": "旅行かばん類"
+  },
+  "67": {
+    "word": "manufacture",
+    "desc": "製造"
+  },
+  "68": {
+    "word": "miss",
+    "desc": "取りそこなう"
+  },
+  "69": {
+    "word": "notice",
+    "desc": "告知"
+  },
+  "70": {
+    "word": "offer",
+    "desc": "差し出す"
+  },
+  "71": {
+    "word": "owe",
+    "desc": "借りがある"
+  },
+  "72": {
+    "word": "participate",
+    "desc": "参加する"
+  },
+  "73": {
+    "word": "passenger",
+    "desc": "乗客"
+  },
+  "74": {
+    "word": "plenty",
+    "desc": "たくさんの"
+  },
+  "75": {
+    "word": "preservation",
+    "desc": "保存"
+  },
+  "76": {
+    "word": "previous",
+    "desc": "以前の"
+  },
+  "77": {
+    "word": "proceed",
+    "desc": "進む，続行する"
+  },
+  "78": {
+    "word": "promote",
+    "desc": "昇進させる"
+  },
+  "79": {
+    "word": "prosperous",
+    "desc": "繁栄する"
+  },
+  "80": {
+    "word": "provide",
+    "desc": "提供する"
+  },
+  "81": {
+    "word": "publicity",
+    "desc": "世間の注目"
+  },
+  "82": {
+    "word": "recommend",
+    "desc": "を勧める"
+  },
+  "83": {
+    "word": "refund",
+    "desc": "払い戻す"
+  },
+  "84": {
+    "word": "remind",
+    "desc": "思い出させる"
+  },
+  "85": {
+    "word": "remove",
+    "desc": "移動させる"
+  },
+  "86": {
+    "word": "replacement",
+    "desc": "交換"
+  },
+  "87": {
+    "word": "representative",
+    "desc": "代表する"
+  },
+  "88": {
+    "word": "reservation",
+    "desc": "予約"
+  },
+  "89": {
+    "word": "responsible",
+    "desc": "責任がある"
+  },
+  "90": {
+    "word": "result",
+    "desc": "結果"
+  },
+  "91": {
+    "word": "review",
+    "desc": "見直す"
+  },
+  "92": {
+    "word": "severe",
+    "desc": "ひどい"
+  },
+  "93": {
+    "word": "shipment",
+    "desc": "船積み"
+  },
+  "94": {
+    "word": "shortage",
+    "desc": "不足"
+  },
+  "95": {
+    "word": "store",
+    "desc": "蓄え"
+  },
+  "96": {
+    "word": "survey",
+    "desc": "概観する，ざっと眺める"
+  },
+  "97": {
+    "word": "transportation",
+    "desc": "運送"
+  },
+  "98": {
+    "word": "voucher",
+    "desc": "保証人"
+  },
+  "99": {
+    "word": "workplace",
+    "desc": "仕事場"
+  },
+  "100": {
+    "word": "workshop",
+    "desc": "作業場"
+  }
+}

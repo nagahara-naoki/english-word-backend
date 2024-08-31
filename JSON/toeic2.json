@@ -1,0 +1,402 @@
+{
+  "1": {
+    "word": "acquisition",
+    "desc": "獲得"
+  },
+  "2": {
+    "word": "admit",
+    "desc": "認める"
+  },
+  "3": {
+    "word": "agenda",
+    "desc": "協議事項"
+  },
+  "4": {
+    "word": "allocate",
+    "desc": "割り当てる"
+  },
+  "5": {
+    "word": "annex",
+    "desc": "付加する"
+  },
+  "6": {
+    "word": "appliance",
+    "desc": "器具"
+  },
+  "7": {
+    "word": "appropriately",
+    "desc": "適切に"
+  },
+  "8": {
+    "word": "approximately",
+    "desc": "おおよそ"
+  },
+  "9": {
+    "word": "aspect",
+    "desc": "面"
+  },
+  "10": {
+    "word": "auditorium",
+    "desc": "観客席"
+  },
+  "11": {
+    "word": "bid",
+    "desc": "つける"
+  },
+  "12": {
+    "word": "brochure",
+    "desc": "パンフレット"
+  },
+  "13": {
+    "word": "candidate",
+    "desc": "候補者"
+  },
+  "14": {
+    "word": "cardboard",
+    "desc": "ボール紙"
+  },
+  "15": {
+    "word": "checkup",
+    "desc": "健康診断"
+  },
+  "16": {
+    "word": "commend",
+    "desc": "ほめる"
+  },
+  "17": {
+    "word": "component",
+    "desc": "構成している"
+  },
+  "18": {
+    "word": "conduct",
+    "desc": "行為"
+  },
+  "19": {
+    "word": "cuisine",
+    "desc": "料理"
+  },
+  "20": {
+    "word": "deficit",
+    "desc": "不足額"
+  },
+  "21": {
+    "word": "demand",
+    "desc": "要求する"
+  },
+  "22": {
+    "word": "designate",
+    "desc": "指名する"
+  },
+  "23": {
+    "word": "discard",
+    "desc": "捨てる"
+  },
+  "24": {
+    "word": "durable",
+    "desc": "永続性のある"
+  },
+  "25": {
+    "word": "eligible",
+    "desc": "適格で"
+  },
+  "26": {
+    "word": "embarrassing",
+    "desc": "ばつの悪い"
+  },
+  "27": {
+    "word": "enthusiastic",
+    "desc": "熱烈な"
+  },
+  "28": {
+    "word": "exclusive",
+    "desc": "排他的な"
+  },
+  "29": {
+    "word": "expedite",
+    "desc": "はかどらせる"
+  },
+  "30": {
+    "word": "expire",
+    "desc": "満了する"
+  },
+  "31": {
+    "word": "extinguish",
+    "desc": "消す"
+  },
+  "32": {
+    "word": "facilitate",
+    "desc": "容易にする"
+  },
+  "33": {
+    "word": "hallway",
+    "desc": "玄関"
+  },
+  "34": {
+    "word": "handout",
+    "desc": "折りたたみ広告"
+  },
+  "35": {
+    "word": "inventory",
+    "desc": "目録"
+  },
+  "36": {
+    "word": "justify",
+    "desc": "正しいとする"
+  },
+  "37": {
+    "word": "lottery",
+    "desc": "くじ引き"
+  },
+  "38": {
+    "word": "novice",
+    "desc": "初心者"
+  },
+  "39": {
+    "word": "obliged",
+    "desc": "せざるをえなくて"
+  },
+  "40": {
+    "word": "outdated",
+    "desc": "旧式の"
+  },
+  "41": {
+    "word": "oval",
+    "desc": "卵形の"
+  },
+  "42": {
+    "word": "pedestrian",
+    "desc": "歩行者"
+  },
+  "43": {
+    "word": "plumber",
+    "desc": "配管工"
+  },
+  "44": {
+    "word": "pottery",
+    "desc": "陶器製造"
+  },
+  "45": {
+    "word": "premise",
+    "desc": "前提"
+  },
+  "46": {
+    "word": "procedure",
+    "desc": "手続き"
+  },
+  "47": {
+    "word": "prohibit",
+    "desc": "禁止する"
+  },
+  "48": {
+    "word": "property",
+    "desc": "財産"
+  },
+  "49": {
+    "word": "pursue",
+    "desc": "追う"
+  },
+  "50": {
+    "word": "reference",
+    "desc": "参考"
+  },
+  "51": {
+    "word": "reimburse",
+    "desc": "払い戻す"
+  },
+  "52": {
+    "word": "relief",
+    "desc": "除去"
+  },
+  "53": {
+    "word": "retrieve",
+    "desc": "回収する"
+  },
+  "54": {
+    "word": "shopper",
+    "desc": "買い物客"
+  },
+  "55": {
+    "word": "slate",
+    "desc": "粘板岩"
+  },
+  "56": {
+    "word": "souvenir",
+    "desc": "記念品"
+  },
+  "57": {
+    "word": "speculate",
+    "desc": "思索する"
+  },
+  "58": {
+    "word": "standstill",
+    "desc": "停止"
+  },
+  "59": {
+    "word": "stroll",
+    "desc": "ぶらつく"
+  },
+  "60": {
+    "word": "subsidiary",
+    "desc": "補足する"
+  },
+  "61": {
+    "word": "substitute",
+    "desc": "代える"
+  },
+  "62": {
+    "word": "superb",
+    "desc": "すばらしい"
+  },
+  "63": {
+    "word": "superintendent",
+    "desc": "管理者"
+  },
+  "64": {
+    "word": "supplement",
+    "desc": "補足"
+  },
+  "65": {
+    "word": "surpass",
+    "desc": "上回る"
+  },
+  "66": {
+    "word": "surrounding",
+    "desc": "囲む"
+  },
+  "67": {
+    "word": "suspicion",
+    "desc": "容疑"
+  },
+  "68": {
+    "word": "swiftly",
+    "desc": "迅速に"
+  },
+  "69": {
+    "word": "tariff",
+    "desc": "関税"
+  },
+  "70": {
+    "word": "thaw",
+    "desc": "解ける"
+  },
+  "71": {
+    "word": "timepiece",
+    "desc": "時計"
+  },
+  "72": {
+    "word": "token",
+    "desc": "しるし"
+  },
+  "73": {
+    "word": "tolerate",
+    "desc": "大目に見る"
+  },
+  "74": {
+    "word": "transfer",
+    "desc": "移す"
+  },
+  "75": {
+    "word": "transparent",
+    "desc": "透明な"
+  },
+  "76": {
+    "word": "tuition",
+    "desc": "教授"
+  },
+  "77": {
+    "word": "turbulent",
+    "desc": "荒れ狂う"
+  },
+  "78": {
+    "word": "turnout",
+    "desc": "出席者"
+  },
+  "79": {
+    "word": "unanimous",
+    "desc": "合意して"
+  },
+  "80": {
+    "word": "unearth",
+    "desc": "発掘する"
+  },
+  "81": {
+    "word": "uniformity",
+    "desc": "一様"
+  },
+  "82": {
+    "word": "utensil",
+    "desc": "用具"
+  },
+  "83": {
+    "word": "utilization",
+    "desc": "利用"
+  },
+  "84": {
+    "word": "vacant",
+    "desc": "空っぽの"
+  },
+  "85": {
+    "word": "valid",
+    "desc": "根拠の確実な"
+  },
+  "86": {
+    "word": "vaporize",
+    "desc": "蒸発させる"
+  },
+  "87": {
+    "word": "vendor",
+    "desc": "行商人"
+  },
+  "88": {
+    "word": "venue",
+    "desc": "開催地"
+  },
+  "89": {
+    "word": "vice",
+    "desc": "悪"
+  },
+  "90": {
+    "word": "virtue",
+    "desc": "徳"
+  },
+  "91": {
+    "word": "warehouse",
+    "desc": "倉庫"
+  },
+  "92": {
+    "word": "warning",
+    "desc": "警告"
+  },
+  "93": {
+    "word": "warrant",
+    "desc": "根拠"
+  },
+  "94": {
+    "word": "welfare",
+    "desc": "福祉"
+  },
+  "95": {
+    "word": "wheelbarrow",
+    "desc": "手押し一輪車"
+  },
+  "96": {
+    "word": "wilderness",
+    "desc": "荒れ野"
+  },
+  "97": {
+    "word": "withstand",
+    "desc": "抵抗する"
+  },
+  "98": {
+    "word": "zeal",
+    "desc": "熱心"
+  },
+  "99": {
+    "word": "zealous",
+    "desc": "熱心な"
+  },
+  "100": {
+    "word": "zenith",
+    "desc": "天頂"
+  }
+}
