@@ -1,0 +1,1794 @@
+{
+    "1": {
+        "word": "a",
+        "desc": "1つの"
+    },
+    "2": {
+        "word": "able",
+        "desc": "できる，有能な"
+    },
+    "3": {
+        "word": "afternoon",
+        "desc": "午後"
+    },
+    "4": {
+        "word": "again",
+        "desc": "再び"
+    },
+    "5": {
+        "word": "age",
+        "desc": "年齢，時代"
+    },
+    "6": {
+        "word": "ago",
+        "desc": "前"
+    },
+    "7": {
+        "word": "all",
+        "desc": "すべての"
+    },
+    "8": {
+        "word": "already",
+        "desc": "すでに"
+    },
+    "9": {
+        "word": "also",
+        "desc": "もまた"
+    },
+    "10": {
+        "word": "always",
+        "desc": "いつも"
+    },
+    "11": {
+        "word": "America",
+        "desc": "アメリカ合衆国"
+    },
+    "12": {
+        "word": "an",
+        "desc": "1つの"
+    },
+    "13": {
+        "word": "and",
+        "desc": "～と、そして"
+    },
+    "14": {
+        "word": "angry",
+        "desc": "怒った"
+    },
+    "15": {
+        "word": "animal",
+        "desc": "動物"
+    },
+    "16": {
+        "word": "apple",
+        "desc": "りんご"
+    },
+    "17": {
+        "word": "April",
+        "desc": "４月"
+    },
+    "18": {
+        "word": "arrive",
+        "desc": "到着する"
+    },
+    "19": {
+        "word": "at",
+        "desc": "～に"
+    },
+    "20": {
+        "word": "August",
+        "desc": "８月"
+    },
+    "21": {
+        "word": "aunt",
+        "desc": "おば"
+    },
+    "22": {
+        "word": "Australia",
+        "desc": "オーストラリア"
+    },
+    "23": {
+        "word": "autumn",
+        "desc": "秋"
+    },
+    "24": {
+        "word": "bad",
+        "desc": "悪い"
+    },
+    "25": {
+        "word": "bag",
+        "desc": "カバン"
+    },
+    "26": {
+        "word": "ball",
+        "desc": "ボール"
+    },
+    "27": {
+        "word": "bank",
+        "desc": "銀行，土手"
+    },
+    "28": {
+        "word": "bank (embankment)",
+        "desc": "土手"
+    },
+    "29": {
+        "word": "baseball",
+        "desc": "野球"
+    },
+    "30": {
+        "word": "basketball",
+        "desc": "バスケットボール"
+    },
+    "31": {
+        "word": "bat",
+        "desc": "バット"
+    },
+    "32": {
+        "word": "beautiful",
+        "desc": "美しい"
+    },
+    "33": {
+        "word": "bed",
+        "desc": "ベッド"
+    },
+    "34": {
+        "word": "best",
+        "desc": "一番良い"
+    },
+    "35": {
+        "word": "big",
+        "desc": "大きい"
+    },
+    "36": {
+        "word": "bike",
+        "desc": "自転車"
+    },
+    "37": {
+        "word": "bird",
+        "desc": "鳥"
+    },
+    "38": {
+        "word": "birthday",
+        "desc": "誕生日"
+    },
+    "39": {
+        "word": "black",
+        "desc": "黒い"
+    },
+    "40": {
+        "word": "blue",
+        "desc": "青い"
+    },
+    "41": {
+        "word": "boat",
+        "desc": "ボート"
+    },
+    "42": {
+        "word": "book",
+        "desc": "本"
+    },
+    "43": {
+        "word": "both",
+        "desc": "両方"
+    },
+    "44": {
+        "word": "box",
+        "desc": "箱"
+    },
+    "45": {
+        "word": "boy",
+        "desc": "少年"
+    },
+    "46": {
+        "word": "bread",
+        "desc": "パン"
+    },
+    "47": {
+        "word": "breakfast",
+        "desc": "朝食"
+    },
+    "48": {
+        "word": "brother",
+        "desc": "兄弟"
+    },
+    "49": {
+        "word": "bus",
+        "desc": "バス"
+    },
+    "50": {
+        "word": "busy",
+        "desc": "忙しい"
+    },
+    "51": {
+        "word": "but",
+        "desc": "しかし"
+    },
+    "52": {
+        "word": "buy",
+        "desc": "買う"
+    },
+    "53": {
+        "word": "by",
+        "desc": "～のそばに、～よって"
+    },
+    "54": {
+        "word": "cake",
+        "desc": "ケーキ"
+    },
+    "55": {
+        "word": "camera",
+        "desc": "カメラ"
+    },
+    "56": {
+        "word": "can",
+        "desc": "～できる、してもよい"
+    },
+    "57": {
+        "word": "Canada",
+        "desc": "カナダ"
+    },
+    "58": {
+        "word": "cap",
+        "desc": "帽子"
+    },
+    "59": {
+        "word": "car",
+        "desc": "自動車"
+    },
+    "60": {
+        "word": "careful",
+        "desc": "注意深い"
+    },
+    "61": {
+        "word": "cat",
+        "desc": "猫"
+    },
+    "62": {
+        "word": "catch",
+        "desc": "捕まえる，(列車に)間に合う"
+    },
+    "63": {
+        "word": "chair",
+        "desc": "いす"
+    },
+    "64": {
+        "word": "chance",
+        "desc": "機会"
+    },
+    "65": {
+        "word": "church",
+        "desc": "教会"
+    },
+    "66": {
+        "word": "citizen",
+        "desc": "市民"
+    },
+    "67": {
+        "word": "city",
+        "desc": "市，都会"
+    },
+    "68": {
+        "word": "class",
+        "desc": "学級，授業"
+    },
+    "69": {
+        "word": "clean",
+        "desc": "きれいな"
+    },
+    "70": {
+        "word": "clerk",
+        "desc": "店員"
+    },
+    "71": {
+        "word": "cold",
+        "desc": "冷たい，寒い"
+    },
+    "72": {
+        "word": "collect",
+        "desc": "集める"
+    },
+    "73": {
+        "word": "color",
+        "desc": "色"
+    },
+    "74": {
+        "word": "come",
+        "desc": "来る"
+    },
+    "75": {
+        "word": "computer",
+        "desc": "コンピュータ"
+    },
+    "76": {
+        "word": "cook",
+        "desc": "料理人"
+    },
+    "77": {
+        "word": "cool",
+        "desc": "涼しい"
+    },
+    "78": {
+        "word": "country",
+        "desc": "国，いなか，地方"
+    },
+    "79": {
+        "word": "cow",
+        "desc": "雌牛"
+    },
+    "80": {
+        "word": "cup",
+        "desc": "カップ"
+    },
+    "81": {
+        "word": "dance",
+        "desc": "踊る"
+    },
+    "82": {
+        "word": "danger",
+        "desc": "危険"
+    },
+    "83": {
+        "word": "dark",
+        "desc": "暗い，黒い"
+    },
+    "84": {
+        "word": "date",
+        "desc": "日付"
+    },
+    "85": {
+        "word": "daughter",
+        "desc": "娘"
+    },
+    "86": {
+        "word": "day",
+        "desc": "日"
+    },
+    "87": {
+        "word": "December",
+        "desc": "１２月"
+    },
+    "88": {
+        "word": "desk",
+        "desc": "机"
+    },
+    "89": {
+        "word": "diary",
+        "desc": "日記"
+    },
+    "90": {
+        "word": "did",
+        "desc": "doの過去形"
+    },
+    "91": {
+        "word": "dinner",
+        "desc": "夕食"
+    },
+    "92": {
+        "word": "do",
+        "desc": "する"
+    },
+    "93": {
+        "word": "doctor",
+        "desc": "医者"
+    },
+    "94": {
+        "word": "does",
+        "desc": "３人称単数"
+    },
+    "95": {
+        "word": "dog",
+        "desc": "犬"
+    },
+    "96": {
+        "word": "doll",
+        "desc": "人形"
+    },
+    "97": {
+        "word": "door",
+        "desc": "ドア"
+    },
+    "98": {
+        "word": "dream",
+        "desc": "夢"
+    },
+    "99": {
+        "word": "drink",
+        "desc": "飲む"
+    },
+    "100": {
+        "word": "early",
+        "desc": "早い"
+    },
+    "101": {
+        "word": "east",
+        "desc": "東"
+    },
+    "102": {
+        "word": "easy",
+        "desc": "やさしい，気楽に"
+    },
+    "103": {
+        "word": "eat",
+        "desc": "食べる"
+    },
+    "104": {
+        "word": "egg",
+        "desc": "卵"
+    },
+    "105": {
+        "word": "eight",
+        "desc": "8"
+    },
+    "106": {
+        "word": "eighteen",
+        "desc": "18"
+    },
+    "107": {
+        "word": "eighty",
+        "desc": "80"
+    },
+    "108": {
+        "word": "eleven",
+        "desc": "11"
+    },
+    "109": {
+        "word": "English",
+        "desc": "英語"
+    },
+    "110": {
+        "word": "enjoy",
+        "desc": "楽しむ"
+    },
+    "111": {
+        "word": "evening",
+        "desc": "晩"
+    },
+    "112": {
+        "word": "every",
+        "desc": "毎～"
+    },
+    "113": {
+        "word": "everybody",
+        "desc": "だれでもみな"
+    },
+    "114": {
+        "word": "everyone",
+        "desc": "みんな"
+    },
+    "115": {
+        "word": "everything",
+        "desc": "すべてのもの"
+    },
+    "116": {
+        "word": "fall",
+        "desc": "秋"
+    },
+    "117": {
+        "word": "family",
+        "desc": "家族"
+    },
+    "118": {
+        "word": "famous",
+        "desc": "有名な"
+    },
+    "119": {
+        "word": "far",
+        "desc": "遠くに，はるかに"
+    },
+    "120": {
+        "word": "fast",
+        "desc": "速い"
+    },
+    "121": {
+        "word": "father",
+        "desc": "父"
+    },
+    "122": {
+        "word": "favorite",
+        "desc": "一番好きな"
+    },
+    "123": {
+        "word": "February",
+        "desc": "２月"
+    },
+    "124": {
+        "word": "field",
+        "desc": "野原，競技場"
+    },
+    "125": {
+        "word": "fifteen",
+        "desc": "15"
+    },
+    "126": {
+        "word": "fifty",
+        "desc": "50"
+    },
+    "127": {
+        "word": "fine",
+        "desc": "すばらしい，元気な，晴れた"
+    },
+    "128": {
+        "word": "first",
+        "desc": "１日"
+    },
+    "129": {
+        "word": "fish",
+        "desc": "魚"
+    },
+    "130": {
+        "word": "five",
+        "desc": "5"
+    },
+    "131": {
+        "word": "floor",
+        "desc": "床，階"
+    },
+    "132": {
+        "word": "flower",
+        "desc": "花"
+    },
+    "133": {
+        "word": "forty",
+        "desc": "40"
+    },
+    "134": {
+        "word": "four",
+        "desc": "4"
+    },
+    "135": {
+        "word": "fourteen",
+        "desc": "14"
+    },
+    "136": {
+        "word": "free",
+        "desc": "ひまな、無料の"
+    },
+    "137": {
+        "word": "Friday",
+        "desc": "金曜日"
+    },
+    "138": {
+        "word": "friend",
+        "desc": "友人"
+    },
+    "139": {
+        "word": "friendly",
+        "desc": "親しみやすい"
+    },
+    "140": {
+        "word": "from",
+        "desc": "～から"
+    },
+    "141": {
+        "word": "fruit",
+        "desc": "果物"
+    },
+    "142": {
+        "word": "full",
+        "desc": "満タンの、いっぱいの"
+    },
+    "143": {
+        "word": "fun",
+        "desc": "おもしろいこと"
+    },
+    "144": {
+        "word": "funny",
+        "desc": "おかしい、おもしろい"
+    },
+    "145": {
+        "word": "garden",
+        "desc": "庭"
+    },
+    "146": {
+        "word": "gate",
+        "desc": "門"
+    },
+    "147": {
+        "word": "get",
+        "desc": "得る，着く，乗る"
+    },
+    "148": {
+        "word": "girl",
+        "desc": "少女"
+    },
+    "149": {
+        "word": "give",
+        "desc": "与える，(会などを)開く"
+    },
+    "150": {
+        "word": "glad",
+        "desc": "うれしい"
+    },
+    "151": {
+        "word": "glass",
+        "desc": "コップ，ガラス"
+    },
+    "152": {
+        "word": "go",
+        "desc": "行く"
+    },
+    "153": {
+        "word": "good",
+        "desc": "良い"
+    },
+    "154": {
+        "word": "green",
+        "desc": "緑の"
+    },
+    "155": {
+        "word": "guitar",
+        "desc": "ギター"
+    },
+    "156": {
+        "word": "hair",
+        "desc": "髪の毛"
+    },
+    "157": {
+        "word": "half",
+        "desc": "半分"
+    },
+    "158": {
+        "word": "hand",
+        "desc": "手"
+    },
+    "159": {
+        "word": "happy",
+        "desc": "幸福な，楽しい"
+    },
+    "160": {
+        "word": "have",
+        "desc": "持っている，食べる"
+    },
+    "161": {
+        "word": "he",
+        "desc": "彼は"
+    },
+    "162": {
+        "word": "help",
+        "desc": "助ける"
+    },
+    "163": {
+        "word": "her",
+        "desc": "彼女の"
+    },
+    "164": {
+        "word": "here",
+        "desc": "ここに"
+    },
+    "165": {
+        "word": "hers",
+        "desc": "彼女のもの"
+    },
+    "166": {
+        "word": "herself",
+        "desc": "彼女自身"
+    },
+    "167": {
+        "word": "high",
+        "desc": "高い"
+    },
+    "168": {
+        "word": "him",
+        "desc": "彼を(に)"
+    },
+    "169": {
+        "word": "himself",
+        "desc": "彼自身"
+    },
+    "170": {
+        "word": "his",
+        "desc": "彼の"
+    },
+    "171": {
+        "word": "home",
+        "desc": "家を(へ)"
+    },
+    "172": {
+        "word": "homework",
+        "desc": "宿題"
+    },
+    "173": {
+        "word": "honest",
+        "desc": "正直な"
+    },
+    "174": {
+        "word": "hospital",
+        "desc": "病院"
+    },
+    "175": {
+        "word": "hot",
+        "desc": "暑い"
+    },
+    "176": {
+        "word": "hotel",
+        "desc": "ホテル"
+    },
+    "177": {
+        "word": "hour",
+        "desc": "時間"
+    },
+    "178": {
+        "word": "house",
+        "desc": "家"
+    },
+    "179": {
+        "word": "how",
+        "desc": "どのくらい"
+    },
+    "180": {
+        "word": "hungry",
+        "desc": "空腹の"
+    },
+    "181": {
+        "word": "I",
+        "desc": "私は(が)"
+    },
+    "182": {
+        "word": "ill",
+        "desc": "病気の"
+    },
+    "183": {
+        "word": "in",
+        "desc": "～に、～で"
+    },
+    "184": {
+        "word": "interesting",
+        "desc": "興味深い"
+    },
+    "185": {
+        "word": "it",
+        "desc": "それは"
+    },
+    "186": {
+        "word": "its",
+        "desc": "それの"
+    },
+    "187": {
+        "word": "itself",
+        "desc": "それ自身"
+    },
+    "188": {
+        "word": "January",
+        "desc": "１月"
+    },
+    "189": {
+        "word": "Japan",
+        "desc": "日本"
+    },
+    "190": {
+        "word": "Japanese",
+        "desc": "日本語"
+    },
+    "191": {
+        "word": "July",
+        "desc": "７月"
+    },
+    "192": {
+        "word": "June",
+        "desc": "６月"
+    },
+    "193": {
+        "word": "junior",
+        "desc": "年下の，下級の"
+    },
+    "194": {
+        "word": "kind",
+        "desc": "親切な"
+    },
+    "195": {
+        "word": "kitchen",
+        "desc": "台所"
+    },
+    "196": {
+        "word": "know",
+        "desc": "知っている"
+    },
+    "197": {
+        "word": "large",
+        "desc": "大きい，広い"
+    },
+    "198": {
+        "word": "later",
+        "desc": "後で"
+    },
+    "199": {
+        "word": "learn",
+        "desc": "学ぶ，覚える"
+    },
+    "200": {
+        "word": "leave",
+        "desc": "去る，残す，置いて行く"
+    },
+    "201": {
+        "word": "left",
+        "desc": "左"
+    },
+    "202": {
+        "word": "lemon",
+        "desc": "レモン"
+    },
+    "203": {
+        "word": "letter",
+        "desc": "手紙"
+    },
+    "204": {
+        "word": "library",
+        "desc": "図書館"
+    },
+    "205": {
+        "word": "light",
+        "desc": "明るい"
+    },
+    "206": {
+        "word": "like",
+        "desc": "好む"
+    },
+    "207": {
+        "word": "line",
+        "desc": "線，列"
+    },
+    "208": {
+        "word": "little",
+        "desc": "小さい，幼い，ちょっとした"
+    },
+    "209": {
+        "word": "live",
+        "desc": "住む，生きる"
+    },
+    "210": {
+        "word": "long",
+        "desc": "長い"
+    },
+    "211": {
+        "word": "look",
+        "desc": "見る，～に見える"
+    },
+    "212": {
+        "word": "lot",
+        "desc": "たくさん"
+    },
+    "213": {
+        "word": "low",
+        "desc": "低い"
+    },
+    "214": {
+        "word": "lunch",
+        "desc": "昼食"
+    },
+    "215": {
+        "word": "mail",
+        "desc": "郵便"
+    },
+    "216": {
+        "word": "make",
+        "desc": "作る，～を～にする"
+    },
+    "217": {
+        "word": "man",
+        "desc": "男の人"
+    },
+    "218": {
+        "word": "many",
+        "desc": "多くの"
+    },
+    "219": {
+        "word": "map",
+        "desc": "地図"
+    },
+    "220": {
+        "word": "March",
+        "desc": "３月"
+    },
+    "221": {
+        "word": "math",
+        "desc": "数学"
+    },
+    "222": {
+        "word": "May",
+        "desc": "５月"
+    },
+    "223": {
+        "word": "me",
+        "desc": "私を"
+    },
+    "224": {
+        "word": "meal",
+        "desc": "食事"
+    },
+    "225": {
+        "word": "meet",
+        "desc": "会う"
+    },
+    "226": {
+        "word": "meter",
+        "desc": "メートル"
+    },
+    "227": {
+        "word": "milk",
+        "desc": "牛乳"
+    },
+    "228": {
+        "word": "mine",
+        "desc": "私のもの"
+    },
+    "229": {
+        "word": "minute",
+        "desc": "分，ちょっとの間"
+    },
+    "230": {
+        "word": "mitt",
+        "desc": "ミット"
+    },
+    "231": {
+        "word": "Monday",
+        "desc": "月曜日"
+    },
+    "232": {
+        "word": "month",
+        "desc": "月"
+    },
+    "233": {
+        "word": "morning",
+        "desc": "朝"
+    },
+    "234": {
+        "word": "most",
+        "desc": "ほとんど"
+    },
+    "235": {
+        "word": "mother",
+        "desc": "母"
+    },
+    "236": {
+        "word": "move",
+        "desc": "動く，感動させる"
+    },
+    "237": {
+        "word": "Mr. ～",
+        "desc": "(男性)～さん"
+    },
+    "238": {
+        "word": "Ms. ～",
+        "desc": "(女性)～さん"
+    },
+    "239": {
+        "word": "much",
+        "desc": "ずっと，たいへん"
+    },
+    "240": {
+        "word": "music",
+        "desc": "音楽"
+    },
+    "241": {
+        "word": "my",
+        "desc": "私の"
+    },
+    "242": {
+        "word": "myself",
+        "desc": "私自身を"
+    },
+    "243": {
+        "word": "name",
+        "desc": "名前"
+    },
+    "244": {
+        "word": "need",
+        "desc": "必要とする"
+    },
+    "245": {
+        "word": "new",
+        "desc": "新しい"
+    },
+    "246": {
+        "word": "next",
+        "desc": "次の，隣の"
+    },
+    "247": {
+        "word": "nice",
+        "desc": "すばらしい"
+    },
+    "248": {
+        "word": "night",
+        "desc": "夜"
+    },
+    "249": {
+        "word": "nine",
+        "desc": "9"
+    },
+    "250": {
+        "word": "nineteen",
+        "desc": "19"
+    },
+    "251": {
+        "word": "ninety",
+        "desc": "90"
+    },
+    "252": {
+        "word": "no",
+        "desc": "いいえ"
+    },
+    "253": {
+        "word": "nobody",
+        "desc": "だれも～ない"
+    },
+    "254": {
+        "word": "noisy",
+        "desc": "うるさい"
+    },
+    "255": {
+        "word": "none",
+        "desc": "何も(だれも)～ない"
+    },
+    "256": {
+        "word": "noon",
+        "desc": "正午"
+    },
+    "257": {
+        "word": "north",
+        "desc": "北"
+    },
+    "258": {
+        "word": "not",
+        "desc": "～でない"
+    },
+    "259": {
+        "word": "notebook",
+        "desc": "ノート"
+    },
+    "260": {
+        "word": "nothing",
+        "desc": "何も～ない"
+    },
+    "261": {
+        "word": "November",
+        "desc": "１１月"
+    },
+    "262": {
+        "word": "now",
+        "desc": "今"
+    },
+    "263": {
+        "word": "number",
+        "desc": "数"
+    },
+    "264": {
+        "word": "nurse",
+        "desc": "看護婦"
+    },
+    "265": {
+        "word": "o’clock",
+        "desc": "～時"
+    },
+    "266": {
+        "word": "o’clock",
+        "desc": "～時"
+    },
+    "267": {
+        "word": "October",
+        "desc": "１０月"
+    },
+    "268": {
+        "word": "of",
+        "desc": "～の"
+    },
+    "269": {
+        "word": "office",
+        "desc": "事務所"
+    },
+    "270": {
+        "word": "often",
+        "desc": "しばしば"
+    },
+    "271": {
+        "word": "old",
+        "desc": "年をとった，古い"
+    },
+    "272": {
+        "word": "on",
+        "desc": "～の上に、～に"
+    },
+    "273": {
+        "word": "one",
+        "desc": "1"
+    },
+    "274": {
+        "word": "open",
+        "desc": "開ける"
+    },
+    "275": {
+        "word": "or",
+        "desc": "～または"
+    },
+    "276": {
+        "word": "orange",
+        "desc": "オレンジ"
+    },
+    "277": {
+        "word": "our",
+        "desc": "私たちの"
+    },
+    "278": {
+        "word": "ours",
+        "desc": "私たちのもの"
+    },
+    "279": {
+        "word": "ourselves",
+        "desc": "私たち自身を"
+    },
+    "280": {
+        "word": "parent",
+        "desc": "親"
+    },
+    "281": {
+        "word": "park",
+        "desc": "公園"
+    },
+    "282": {
+        "word": "pen",
+        "desc": "ペン"
+    },
+    "283": {
+        "word": "pencil",
+        "desc": "鉛筆"
+    },
+    "284": {
+        "word": "people",
+        "desc": "人々"
+    },
+    "285": {
+        "word": "piano",
+        "desc": "ピアノ"
+    },
+    "286": {
+        "word": "picture",
+        "desc": "絵，写真"
+    },
+    "287": {
+        "word": "pilot",
+        "desc": "パイロット"
+    },
+    "288": {
+        "word": "place",
+        "desc": "場所"
+    },
+    "289": {
+        "word": "plane",
+        "desc": "飛行機"
+    },
+    "290": {
+        "word": "play",
+        "desc": "遊ぶ，(スポーツを)をする，演奏する"
+    },
+    "291": {
+        "word": "player",
+        "desc": "選手，演奏者"
+    },
+    "292": {
+        "word": "poor",
+        "desc": "貧乏な，かわいそうな，不十分な"
+    },
+    "293": {
+        "word": "popular",
+        "desc": "人気のある"
+    },
+    "294": {
+        "word": "pot",
+        "desc": "ポット"
+    },
+    "295": {
+        "word": "present",
+        "desc": "プレゼント"
+    },
+    "296": {
+        "word": "put",
+        "desc": "置く"
+    },
+    "297": {
+        "word": "question",
+        "desc": "質問"
+    },
+    "298": {
+        "word": "quiet",
+        "desc": "静かな"
+    },
+    "299": {
+        "word": "racket",
+        "desc": "ラケット"
+    },
+    "300": {
+        "word": "rain",
+        "desc": "雨"
+    },
+    "301": {
+        "word": "read",
+        "desc": "読む"
+    },
+    "302": {
+        "word": "red",
+        "desc": "赤い"
+    },
+    "303": {
+        "word": "rich",
+        "desc": "金持ちの，豊かな"
+    },
+    "304": {
+        "word": "ride",
+        "desc": "乗る"
+    },
+    "305": {
+        "word": "right",
+        "desc": "右，権利"
+    },
+    "306": {
+        "word": "room",
+        "desc": "部屋"
+    },
+    "307": {
+        "word": "rose",
+        "desc": "バラ"
+    },
+    "308": {
+        "word": "run",
+        "desc": "走る"
+    },
+    "309": {
+        "word": "sad",
+        "desc": "悲しい"
+    },
+    "310": {
+        "word": "Saturday",
+        "desc": "土曜日"
+    },
+    "311": {
+        "word": "school",
+        "desc": "学校"
+    },
+    "312": {
+        "word": "science",
+        "desc": "科学"
+    },
+    "313": {
+        "word": "season",
+        "desc": "季節"
+    },
+    "314": {
+        "word": "second",
+        "desc": "２日"
+    },
+    "315": {
+        "word": "sell",
+        "desc": "売る"
+    },
+    "316": {
+        "word": "send",
+        "desc": "送る"
+    },
+    "317": {
+        "word": "September",
+        "desc": "９月"
+    },
+    "318": {
+        "word": "seven",
+        "desc": "7"
+    },
+    "319": {
+        "word": "seventeen",
+        "desc": "17"
+    },
+    "320": {
+        "word": "seventy",
+        "desc": "70"
+    },
+    "321": {
+        "word": "she",
+        "desc": "彼女は"
+    },
+    "322": {
+        "word": "sheep",
+        "desc": "羊"
+    },
+    "323": {
+        "word": "short",
+        "desc": "短い，背が低い"
+    },
+    "324": {
+        "word": "shy",
+        "desc": "恥ずかしがりの"
+    },
+    "325": {
+        "word": "sick",
+        "desc": "病気で(の)"
+    },
+    "326": {
+        "word": "sing",
+        "desc": "歌う"
+    },
+    "327": {
+        "word": "singer",
+        "desc": "歌手"
+    },
+    "328": {
+        "word": "sister",
+        "desc": "姉妹"
+    },
+    "329": {
+        "word": "six",
+        "desc": "6"
+    },
+    "330": {
+        "word": "sixteen",
+        "desc": "16"
+    },
+    "331": {
+        "word": "sixty",
+        "desc": "60"
+    },
+    "332": {
+        "word": "slow",
+        "desc": "遅い"
+    },
+    "333": {
+        "word": "slowly",
+        "desc": "ゆっくりと"
+    },
+    "334": {
+        "word": "small",
+        "desc": "小さな"
+    },
+    "335": {
+        "word": "smart",
+        "desc": "賢い"
+    },
+    "336": {
+        "word": "snow",
+        "desc": "雪"
+    },
+    "337": {
+        "word": "so",
+        "desc": "そんなに"
+    },
+    "338": {
+        "word": "soccer",
+        "desc": "サッカー"
+    },
+    "339": {
+        "word": "some",
+        "desc": "いくつかの"
+    },
+    "340": {
+        "word": "someone",
+        "desc": "だれか"
+    },
+    "341": {
+        "word": "something",
+        "desc": "何か"
+    },
+    "342": {
+        "word": "sometimes",
+        "desc": "時々"
+    },
+    "343": {
+        "word": "son",
+        "desc": "息子"
+    },
+    "344": {
+        "word": "soon",
+        "desc": "すぐに"
+    },
+    "345": {
+        "word": "sorry",
+        "desc": "残念な"
+    },
+    "346": {
+        "word": "south",
+        "desc": "南"
+    },
+    "347": {
+        "word": "speak",
+        "desc": "話す"
+    },
+    "348": {
+        "word": "sport",
+        "desc": "スポーツ"
+    },
+    "349": {
+        "word": "spring",
+        "desc": "春"
+    },
+    "350": {
+        "word": "stamp",
+        "desc": "切手"
+    },
+    "351": {
+        "word": "stand",
+        "desc": "立つ"
+    },
+    "352": {
+        "word": "station",
+        "desc": "駅"
+    },
+    "353": {
+        "word": "stay",
+        "desc": "滞在する"
+    },
+    "354": {
+        "word": "stop",
+        "desc": "止める，止まる"
+    },
+    "355": {
+        "word": "store",
+        "desc": "店"
+    },
+    "356": {
+        "word": "strong",
+        "desc": "強い，じょうぶな"
+    },
+    "357": {
+        "word": "student",
+        "desc": "学生"
+    },
+    "358": {
+        "word": "study",
+        "desc": "勉強する"
+    },
+    "359": {
+        "word": "subject",
+        "desc": "科目，題目"
+    },
+    "360": {
+        "word": "summer",
+        "desc": "夏"
+    },
+    "361": {
+        "word": "Sunday",
+        "desc": "日曜日"
+    },
+    "362": {
+        "word": "supper",
+        "desc": "夕食"
+    },
+    "363": {
+        "word": "swim",
+        "desc": "泳ぐ"
+    },
+    "364": {
+        "word": "table",
+        "desc": "テーブル"
+    },
+    "365": {
+        "word": "tall",
+        "desc": "背の高い"
+    },
+    "366": {
+        "word": "tape",
+        "desc": "テープ"
+    },
+    "367": {
+        "word": "teacher",
+        "desc": "先生"
+    },
+    "368": {
+        "word": "ten",
+        "desc": "10"
+    },
+    "369": {
+        "word": "tennis",
+        "desc": "テニス"
+    },
+    "370": {
+        "word": "that",
+        "desc": "あの"
+    },
+    "371": {
+        "word": "the",
+        "desc": "その"
+    },
+    "372": {
+        "word": "their",
+        "desc": "彼(女)らの"
+    },
+    "373": {
+        "word": "theirs",
+        "desc": "彼(女)らのもの"
+    },
+    "374": {
+        "word": "them",
+        "desc": "彼(女)らを(に)"
+    },
+    "375": {
+        "word": "themselves",
+        "desc": "彼(女)ら自身"
+    },
+    "376": {
+        "word": "there",
+        "desc": "そこに"
+    },
+    "377": {
+        "word": "these",
+        "desc": "これらの"
+    },
+    "378": {
+        "word": "they",
+        "desc": "それらは，彼(女)らは"
+    },
+    "379": {
+        "word": "thing",
+        "desc": "こと・物"
+    },
+    "380": {
+        "word": "third",
+        "desc": "３日"
+    },
+    "381": {
+        "word": "thirteen",
+        "desc": "13"
+    },
+    "382": {
+        "word": "thirty",
+        "desc": "30"
+    },
+    "383": {
+        "word": "this",
+        "desc": "この"
+    },
+    "384": {
+        "word": "those",
+        "desc": "あれらの"
+    },
+    "385": {
+        "word": "three",
+        "desc": "3"
+    },
+    "386": {
+        "word": "Thursday",
+        "desc": "木曜日"
+    },
+    "387": {
+        "word": "time",
+        "desc": "時，～回"
+    },
+    "388": {
+        "word": "to",
+        "desc": "～へ"
+    },
+    "389": {
+        "word": "today",
+        "desc": "今日，現在"
+    },
+    "390": {
+        "word": "together",
+        "desc": "一緒に"
+    },
+    "391": {
+        "word": "tomorrow",
+        "desc": "明日"
+    },
+    "392": {
+        "word": "too",
+        "desc": "～もまた，～すぎる"
+    },
+    "393": {
+        "word": "town",
+        "desc": "町"
+    },
+    "394": {
+        "word": "train",
+        "desc": "電車、列車"
+    },
+    "395": {
+        "word": "tree",
+        "desc": "木"
+    },
+    "396": {
+        "word": "try",
+        "desc": "試す"
+    },
+    "397": {
+        "word": "Tuesday",
+        "desc": "火曜日"
+    },
+    "398": {
+        "word": "TV",
+        "desc": "テレビ"
+    },
+    "399": {
+        "word": "twelve",
+        "desc": "12"
+    },
+    "400": {
+        "word": "twenty",
+        "desc": "20"
+    },
+    "401": {
+        "word": "two",
+        "desc": "2"
+    },
+    "402": {
+        "word": "uncle",
+        "desc": "おじ"
+    },
+    "403": {
+        "word": "under",
+        "desc": "～の下に"
+    },
+    "404": {
+        "word": "up",
+        "desc": "上へ"
+    },
+    "405": {
+        "word": "us",
+        "desc": "私たちを(に)"
+    },
+    "406": {
+        "word": "use",
+        "desc": "使う"
+    },
+    "407": {
+        "word": "usually",
+        "desc": "ふつう"
+    },
+    "408": {
+        "word": "very",
+        "desc": "非常に"
+    },
+    "409": {
+        "word": "village",
+        "desc": "村"
+    },
+    "410": {
+        "word": "visit",
+        "desc": "訪問する"
+    },
+    "411": {
+        "word": "wait",
+        "desc": "待つ"
+    },
+    "412": {
+        "word": "walk",
+        "desc": "散歩"
+    },
+    "413": {
+        "word": "wall",
+        "desc": "壁"
+    },
+    "414": {
+        "word": "want",
+        "desc": "欲しい"
+    },
+    "415": {
+        "word": "warm",
+        "desc": "温暖な"
+    },
+    "416": {
+        "word": "wash",
+        "desc": "洗う"
+    },
+    "417": {
+        "word": "watch",
+        "desc": "腕時計"
+    },
+    "418": {
+        "word": "way",
+        "desc": "道，方法"
+    },
+    "419": {
+        "word": "we",
+        "desc": "私たちは"
+    },
+    "420": {
+        "word": "weather",
+        "desc": "天気"
+    },
+    "421": {
+        "word": "Wednesday",
+        "desc": "水曜日"
+    },
+    "422": {
+        "word": "week",
+        "desc": "週"
+    },
+    "423": {
+        "word": "well",
+        "desc": "よく，じょうずに"
+    },
+    "424": {
+        "word": "west",
+        "desc": "西"
+    },
+    "425": {
+        "word": "what",
+        "desc": "何"
+    },
+    "426": {
+        "word": "where",
+        "desc": "どこに"
+    },
+    "427": {
+        "word": "which",
+        "desc": "どちら"
+    },
+    "428": {
+        "word": "white",
+        "desc": "白い"
+    },
+    "429": {
+        "word": "who",
+        "desc": "だれ"
+    },
+    "430": {
+        "word": "whose",
+        "desc": "だれの(もの)"
+    },
+    "431": {
+        "word": "why",
+        "desc": "なぜ"
+    },
+    "432": {
+        "word": "window",
+        "desc": "窓"
+    },
+    "433": {
+        "word": "winter",
+        "desc": "冬"
+    },
+    "434": {
+        "word": "with",
+        "desc": "～といっしよに"
+    },
+    "435": {
+        "word": "woman",
+        "desc": "女性"
+    },
+    "436": {
+        "word": "work",
+        "desc": "仕事，作品"
+    },
+    "437": {
+        "word": "write",
+        "desc": "書く，手紙を書く"
+    },
+    "438": {
+        "word": "yard",
+        "desc": "中庭"
+    },
+    "439": {
+        "word": "year",
+        "desc": "年"
+    },
+    "440": {
+        "word": "yes",
+        "desc": "はい"
+    },
+    "441": {
+        "word": "yesterday",
+        "desc": "昨日"
+    },
+    "442": {
+        "word": "yet",
+        "desc": "まだ(～でない)"
+    },
+    "443": {
+        "word": "you",
+        "desc": "あなたに(を)，あなたがたを"
+    },
+    "444": {
+        "word": "young",
+        "desc": "若い"
+    },
+    "445": {
+        "word": "your",
+        "desc": "あなたの，あなたがたの"
+    },
+    "446": {
+        "word": "yours",
+        "desc": "あなたのもの，あなたがたのもの"
+    },
+    "447": {
+        "word": "yourself",
+        "desc": "あなた自身"
+    },
+    "448": {
+        "word": "true",
+        "desc": "ほんとうの"
+    }
+}
